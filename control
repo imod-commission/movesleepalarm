@@ -1,0 +1,9 @@
+Package: com.imodcommission.movesleepalarm
+Name: MoveSleepAlarm
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: 实时调整锁屏睡眠闹钟Y轴偏移 (RootHide)
+Maintainer: imod_commission
+Author: imod_commission
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
